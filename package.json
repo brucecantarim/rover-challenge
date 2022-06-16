@@ -1,0 +1,14 @@
+{
+  "name": "robot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/robot.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
